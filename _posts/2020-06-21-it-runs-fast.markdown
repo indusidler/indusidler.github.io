@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "It runs faster than you think it will"
+date:   2020-06-21 00:23:44 -0400
+categories: life
+---
+When you are young people tell you that you have a lot of life ahead. That you needn't run because you have a lot of life ahead of you. Well let me tell you one thing. They are wrong. Not necessarily wrong completely, but definitely wrong. They tell you this to comfort you. Like a lot of things that people say to comfort you when you are young. Its good to hear. But thats where it ends. You have to learn things yourself. Trust yourself and run as fast as you can. When someone says life is long and you have time to achieve things, just run from them. If there is one life advice that I would give my younger self, it would be to surround yourself with people who will take you forward. Yes it involves luck, to find people who can take you forward. But if you are deliberate, its possible to find the best. 
+Anyways what I wanted to mention today is that life comes at you faster than you can ever imagine. Dont listen to people who want to slow you down. This includes, and I say this with a lot of caution, your parents. Let not anyone stop you from achieving things you set out to achieve. Because life comes at you fast. You might think that you have all the time in the world but you really dont. No one does. So be smart and move fast. You might not think that things are moving fast but believe me they are. 
