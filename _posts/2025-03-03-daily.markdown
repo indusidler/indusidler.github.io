@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Let's make this more regular"
+date:   2025-03-03 20:12:44 -0400
+categories: investing, life,lessons
+---
+I recently read someone suggesting people to write 100 words and just post. Do not think about what you are writing but just post it out there.
+
+I think that is a little extreme. I am not sure if I will every get to a level where I will be OK with it. But why not try? What can go wrong with me posting something every day. But I don't want to do random posts. I want them to be decently meaningful. Short but meaningful. So I will try to post about something that I have learnt that day. It can be as simple as learning about a new parameter to a unix command. So lets see how this goes.
+I know its not going to be easy. How can I explain something that I have learnt earlier in the day without actually mastering it. I think that is where the interesting thing is. I think this will get me to start thinking about and learn more in the future. 
+For example, today I was learning about using functional style of coding for design patterns in Java. I have stopped coding in Java a while back. But I still find it fascinating. The language has evolved so much that something that I have learnt decades ago is now being revamped to a new paradigm.
+This has always been the case with Java. It has kind of lost the battle with the data scientists but it is still, in my opinion, one of the best languages to build distributed systems. It is a nice combination of performance, productivity and scalability. I hope organizations realize that.
+
+Anyways thats it for today. I will try to keep this going on a regular basis and hopefully things start to make sense after a few days. Lets see.
+
+
