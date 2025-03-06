@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Making tools work for us"
+date:   2025-03-05 20:12:44 -0400
+categories:  life,lessons
+---
+I am surprised that I am continuing this for the third day. I really wanted to start with this sentence. The minute I thought about it though, I realized that I was setting myself up for failure. It is good to keep expectations low in general. But they should not be so low that they force us into inaction. The fact that I seem to be surprised to continue even for less than a week shows how low I expect of myself. This is just crazy. I wasnt like this when I was a kid. Somehow somewhere I got conditioned into thinking that putting myself down is cool. Anyways I shall stop doing that. I shall keep posting stuff here. No matter how irrelevant and how random these posts are.
+
+Anyways, yesterday I thought I would write about kdb verbs today. I had read about them a few days back. Even though I use it on a daily basis, it is always good to learn a new facet of something. I am going to post about it eventually. But not today. Its been a very busy day and as I started working on this post, I thought about making my workflow better for this. I need to have a better way to do this. Firstly I should have templates for creating the markdown files that I use to create posts. I use nvim for most of the editing that I do and I should be able to create simple templates to serve my purpose. Thats the next task I am assigning myself. The next post I create will have the basic setup done through the template. Next would be streamline the process to publish the post. Right now it is a bunch of git commands... maybe I can wrap these steps into a simple post save action. Let me see. Anyways a long way to go before I make the tools work for me. 
