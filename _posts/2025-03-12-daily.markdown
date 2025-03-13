@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "kdb verbs"
+date:   2025-03-12 20:12:44 -0400
+categories:  life,lessons
+---
+
+So I have not finished reading the blog post on kdb. It is one of the best intros to kdb I have seen. I am pretty conversant with kdb but to understand things at the basic level with clarity is somewhat of a blessing. So today I was reading about kdb verbs and have gone through how each of the operators are overloaded for different types of invocations. To see that this was done about 30 years ago is just astounding. There is beauty in the simplicity that kdb espouses. It looks simple but it is not easy.
+
+I have working with kdb for so many years not but even today I learn new things. Part of it is probably because I learnt it just as a utility but never really understood the underlying philosophy. Once I get there it would be beautiful. At least that is the hope. I have started making small steps and I should consolidate my learnings into a small tutorial. That would take more time than me ranting for five minutes. It is a different kind of an article that would probably take days but I need to do it. And I will do it. It will happen. 
+
+
